@@ -5,7 +5,7 @@ This file contains added code to define locations for the reference videos.  The
 
 The code added  is as follows (see file gradio_demo.py):
 
-current_directory = os.getcwd()
+        current_directory = os.getcwd()
         print(current_directory)
 
         # Set the source directory
