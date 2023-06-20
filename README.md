@@ -1,4 +1,8 @@
 # SadTalker
+![image](https://github.com/jjmlovesgit/SadTalker/assets/47751509/9d222de8-2910-4e2e-bab9-b35f0a31909d)
+#
+https://youtu.be/ObSX8QcSgM0
+#
 SadTalker gradio_demo.py file with code section that allows you to set the eye blink and pose reference videos for the software to use when creating Avatar videos
 
 This file contains added code to define locations for the reference videos.  The file is located in the src subdirectory under sadtalker
